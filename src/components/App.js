@@ -12,18 +12,19 @@ class App extends React.Component
     render() 
     {
         return (<Router>
-                    <React.Fragment>
+                    <div style={{marginBottom:"2%"}}>
                         <h1>Indian Banking Analytics</h1>
                         <Link to="/view1">View1</Link> |
                         <Link to="/view2"> View2 </Link> |
                         <Link to="/view3"> View3 </Link> |
                         <Link to="/view4"> View4 </Link>
+                        <br/> <br/>
                         <Route exact path = "/" component = {welcome} />
                         <Route path = "/view1" component = {view1} />
                         <Route path = "/view2" component = {view2} />
                         <Route path = "/view3" component = {view3} />
                         <Route path = "/view4" component = {view4} />
-                    </React.Fragment>
+                    </div>
                 </Router>)
     }
 }
