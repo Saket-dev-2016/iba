@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import HPlatform, { HMap, HMapMarker } from "react-here-map";
 import icon from "../../images/icon.svg"
-import data from "./LocationData.json"
+import data from "./SampleData/LocationData.json"
 // import {Form} from 'react-bootstrap';
  
 
@@ -29,8 +29,7 @@ class HereMap extends Component{
             >
                 <HMap
                 style={{
-                height: "300px",
-                width: "600px"
+                height: "300px"
                 }}
                 mapOptions={{ center: { lat:17.123184	, lng: 79.208824  } }}
                 useEvents // Required for events

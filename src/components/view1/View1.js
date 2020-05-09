@@ -35,7 +35,7 @@ class View1 extends React.Component
                     <div className="filter">
                         <Form>
                             <Form.Group>
-                                <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Locatiom</FormLabel>
+                                <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Location</FormLabel>
                                 <Form.Control
                                     size='lg'
                                     required
