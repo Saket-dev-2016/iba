@@ -8,6 +8,8 @@ import Line from "./Line"
 import FormLabel from '@material-ui/core/FormLabel';
 import {Form} from 'react-bootstrap';
 import "../../css/view1/view1.css";
+import Select from '@material-ui/core/Select';
+import MenuItem from '@material-ui/core/MenuItem';
 
 import data from './SampleData/LocationData.json';
 
@@ -27,6 +29,22 @@ class View1 extends React.Component
     
     render() 
     {
+        // const useStyles = makeStyles((theme) => ({
+        //     formControl: {
+        //       margin: theme.spacing(1),
+        //       minWidth: 120,
+        //     },
+        //     selectEmpty: {
+        //       marginTop: theme.spacing(2),
+        //     },
+        //   }));
+
+        //   const classes = useStyles();
+        // const [age, setAge] = React.useState('');
+
+            // const handleChange = (event) => {
+            //     setAge(event.target.value);
+            // };  
 
         return <React.Fragment>
             {/* <h1>Branch Dynamic View-1</h1>
@@ -38,12 +56,16 @@ class View1 extends React.Component
                         <Form>
                             <Form.Group>
                                 <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Location</FormLabel>
-                                <select onChange={(event)=>this.set_loc(event)}>
-                                    <option key = "first" value = "first"></option>
+        
+                                <Select
+                                    style={{width:"80%"}}
+                                    value={this.state.locationName}
+                                    onChange={(event) => this.set_loc(event)}
+                                >
                                     {data.map(items=> (
-                                        <option key = {items.locationName} value = {items.locationName}>{items.locationName}</option>
+                                        <MenuItem key = {items.locationName} value = {items.locationName}>{items.locationName.toUpperCase()}</MenuItem>
                                     ))}
-                                </select>
+                                </Select>
                             </Form.Group>
                         </Form>
                     </div>

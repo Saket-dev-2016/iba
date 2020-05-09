@@ -24,7 +24,7 @@ class Geo extends Component{
                 useCIT
                 useHTTPS
                 interactive
-                includeUI
+                // includeUI
                 // includePlaces
             >
                 <HMap
