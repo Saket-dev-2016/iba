@@ -7,8 +7,9 @@ import Line from "./Line"
 // import Filter from "./filter"
 import FormLabel from '@material-ui/core/FormLabel';
 import {Form} from 'react-bootstrap';
-import "../../css/view1/view1.css"
+import "../../css/view1/view1.css";
 
+import data from './SampleData/LocationData.json';
 
 class View1 extends React.Component 
 {
@@ -26,6 +27,7 @@ class View1 extends React.Component
     
     render() 
     {
+
         return <React.Fragment>
             {/* <h1>Branch Dynamic View-1</h1>
             <h2> Inside View1 test</h2> */}
@@ -36,14 +38,12 @@ class View1 extends React.Component
                         <Form>
                             <Form.Group>
                                 <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Location</FormLabel>
-                                <Form.Control
-                                    size='lg'
-                                    required
-                                    type="text"
-                                    placeholder="Location"
-                                    value={this.state.locationName}
-                                    onChange={(event)=>this.set_loc(event)}
-                                />
+                                <select onChange={(event)=>this.set_loc(event)}>
+                                    <option key = "first" value = "first"></option>
+                                    {data.map(items=> (
+                                        <option key = {items.locationName} value = {items.locationName}>{items.locationName}</option>
+                                    ))}
+                                </select>
                             </Form.Group>
                         </Form>
                     </div>
