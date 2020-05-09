@@ -1,6 +1,6 @@
 import React from 'react'; 
 
-class View2 extends React.Component 
+class Racing extends React.Component 
 {
     render() 
     {
@@ -11,4 +11,4 @@ class View2 extends React.Component
     }
 }
 
-export default View2;
+export default Racing;

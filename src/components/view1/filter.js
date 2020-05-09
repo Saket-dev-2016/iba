@@ -2,7 +2,7 @@ import React from 'react';
 import FormLabel from '@material-ui/core/FormLabel';
 import {Form} from 'react-bootstrap';
 
-class View2 extends React.Component 
+class Filter extends React.Component 
 {
     constructor(props){
         super(props);
@@ -38,4 +38,4 @@ class View2 extends React.Component
     }
 }
 
-export default View2;
+export default Filter;

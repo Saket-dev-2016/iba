@@ -6,7 +6,7 @@ import data from "./SampleData/LocationData.json"
  
 
  
-class HereMap extends Component{
+class Geo extends Component{
     constructor(props){
         super(props);
         this.state={ }
@@ -43,4 +43,4 @@ class HereMap extends Component{
 }
 }
 
-export default HereMap
+export default Geo;
