@@ -4,13 +4,11 @@ import Geo from "./Geo"
 import Bar from "./Bar"
 import Racing from "./Racing"
 import Line from "./Line"
-// import Filter from "./filter"
 import FormLabel from '@material-ui/core/FormLabel';
 import {Form} from 'react-bootstrap';
 import "../../css/view1/view1.css";
 import Select from '@material-ui/core/Select';
 import MenuItem from '@material-ui/core/MenuItem';
-
 import data from './SampleData/LocationData.json';
 
 class View1 extends React.Component 
@@ -29,26 +27,19 @@ class View1 extends React.Component
     
     render() 
     {
-        // const useStyles = makeStyles((theme) => ({
-        //     formControl: {
-        //       margin: theme.spacing(1),
-        //       minWidth: 120,
-        //     },
-        //     selectEmpty: {
-        //       marginTop: theme.spacing(2),
-        //     },
-        //   }));
+        var lookup = {};
+        var items = data;
+        var result = [];
 
-        //   const classes = useStyles();
-        // const [age, setAge] = React.useState('');
-
-            // const handleChange = (event) => {
-            //     setAge(event.target.value);
-            // };  
-
-        return <React.Fragment>
-            {/* <h1>Branch Dynamic View-1</h1>
-            <h2> Inside View1 test</h2> */}
+        for (var item, i = 0; !!(item = items[i++]);) {
+          var name = item.locationName;
+          if (!(name in lookup)) {
+            lookup[name] = 1;
+            result.push(name);
+          }
+        }
+        result.sort()
+            return <React.Fragment>
             <Row style={{width:"97%"}}>
                 <Col lg={3} md={12}>
                     {/* Moved Filter.js code here due to state exchange */}
@@ -56,14 +47,13 @@ class View1 extends React.Component
                         <Form>
                             <Form.Group>
                                 <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Location</FormLabel>
-        
                                 <Select
                                     style={{width:"80%"}}
                                     value={this.state.locationName}
                                     onChange={(event) => this.set_loc(event)}
                                 >
-                                    {data.map(items=> (
-                                        <MenuItem key = {items.locationName} value = {items.locationName}>{items.locationName.toUpperCase()}</MenuItem>
+                                    {result.map(items=> (
+                                        <MenuItem key = {items} value = {items}>{items.toUpperCase()}</MenuItem>
                                     ))}
                                 </Select>
                             </Form.Group>

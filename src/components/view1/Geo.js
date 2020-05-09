@@ -37,7 +37,7 @@ class Geo extends Component{
                 {p}         
             </HMap>
             </HPlatform>
-            {len}
+            {"Count: " + len}
   </div>
 );
 }
