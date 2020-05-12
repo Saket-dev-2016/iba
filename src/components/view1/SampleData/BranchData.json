@@ -1,0 +1,3502 @@
+[
+    {
+      "year": 1990,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 28,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 42,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 40,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 47,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 3,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 0,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 18,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 44,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 46,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 0,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 36,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 29,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 17,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 23,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 10,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 18,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 33,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 19,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 25,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 23,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 28,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 24,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 42,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 24,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 38,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 18,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 35,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 6,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 22,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 0,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 1,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 40,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 13,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 37,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 43,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 33,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 33,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 44,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 27,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 7,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 15,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 32,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 29,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 27,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 30,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 35,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 49,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 3,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 32,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 34,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 0,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 45,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 46,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 10,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 10,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 47,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 42,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 3,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 28,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 13,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 13,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 16,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 30,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 41,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 49,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 22,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 13,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 41,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 6,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 47,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 42,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 47,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 42,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 16,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 9,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 27,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 31,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 22,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 43,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 23,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 28,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 43,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 39,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 21,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 36,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 3,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 15,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 5,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 9,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 46,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 18,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 4,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 8,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 26,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 33,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 22,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 29,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 37,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 7,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 1,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 5,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 40,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 27,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 10,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 31,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 26,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 32,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 13,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 30,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 20,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 37,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 36,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 27,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 43,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 7,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 37,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 32,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 11,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 45,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 11,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 1,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 8,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 9,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 28,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 42,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 31,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 2,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 22,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 4,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 46,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 20,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 26,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 33,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 43,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 45,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 12,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 35,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 1,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 6,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 9,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 6,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 44,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 29,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 2,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 41,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 49,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 31,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 3,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 37,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 21,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 44,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 28,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 33,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 28,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 16,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 42,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 8,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 36,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 9,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 39,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 8,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 44,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 19,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 16,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 17,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 16,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 14,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 40,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 22,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 37,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 12,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 24,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 21,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 44,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 11,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 34,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 32,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 8,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 33,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 43,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 24,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 46,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 34,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 41,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 42,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 18,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 4,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 49,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 6,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 23,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 36,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 12,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 29,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 7,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 17,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 28,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 17,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 11,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 12,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 10,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 4,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 14,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 23,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 48,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 34,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 46,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 0,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 28,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 16,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 38,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 12,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 31,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 6,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 17,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 47,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 39,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 7,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 36,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 25,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 11,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 45,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 31,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 37,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2028,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 45,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 41,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 49,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 18,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 13,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2029,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 32,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 27,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 42,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 2,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 29,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 5,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2030,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 39,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 8,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 2,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 27,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 20,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 34,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2031,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 22,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 8,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 2,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 17,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 47,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 49,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2032,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 18,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 34,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 29,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 34,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 20,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 19,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2033,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 47,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 2,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 26,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 45,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 28,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 30,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2034,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 47,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 10,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 32,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 0,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 2,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2035,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 16,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 36,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 34,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 38,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 41,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 3,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2036,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 38,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 44,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 36,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 14,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 39,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 16,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2037,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 17,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 4,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 0,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 22,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 45,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 10,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2038,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 41,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 41,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 45,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 42,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 47,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 0,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2039,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 0,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 25,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 42,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 14,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 26,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 0,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2040,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 47,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 9,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 15,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 41,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 26,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 22,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2041,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 10,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 14,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 31,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 30,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 16,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 17,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2042,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 45,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 24,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 19,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 6,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 17,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 48,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2043,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 0,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 0,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 5,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 37,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 5,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 21,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2044,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 12,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 24,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 23,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 24,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 31,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 6,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2045,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 48,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 19,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 10,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 44,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 25,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 35,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2046,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 25,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 4,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 43,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 44,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 21,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 38,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2047,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 18,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 37,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 44,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 23,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 44,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2048,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 27,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 41,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 8,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 36,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 39,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2049,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 38,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 14,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 34,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 40,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 7,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 29,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2050,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 36,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 9,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 29,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 14,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 26,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 9,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2051,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 5,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 16,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 10,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 1,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 8,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 3,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2052,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 27,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 23,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 22,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 37,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 10,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 40,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2053,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 41,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 41,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 39,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 15,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 5,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 9,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2054,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 19,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 23,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 0,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 44,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 6,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 20,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2055,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 21,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 26,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 0,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 2,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 20,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 44,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2056,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 24,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 5,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 42,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 45,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 21,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 2,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2057,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 29,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 31,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 47,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 36,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 9,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 0,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2058,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 33,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 3,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 1,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 8,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 8,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 10,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2059,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 4,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 37,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 1,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 24,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 25,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 1,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2060,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 9,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 30,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 34,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 28,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 43,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 2,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2061,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 16,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 20,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 35,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 34,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 0,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 42,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2062,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 19,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 48,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 43,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 29,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 21,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 23,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2063,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 13,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 40,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 11,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 25,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 6,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 33,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2064,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 0,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 49,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 33,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 43,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 13,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 27,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2065,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 41,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 29,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 30,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 46,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 28,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 47,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2066,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 44,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 7,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 23,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 9,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 25,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 24,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2067,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 38,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 15,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 33,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 16,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 5,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2068,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 24,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 11,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 0,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 29,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 30,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 12,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2069,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 15,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 39,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 40,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 48,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 4,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 39,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2070,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 16,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 26,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 4,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 49,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 20,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 42,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2071,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 39,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 32,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 36,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 14,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 3,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 48,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2072,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 47,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 24,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 10,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 6,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 39,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 26,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2073,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 45,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 8,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 25,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 7,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 19,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 37,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2074,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 21,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 46,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 17,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 32,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 8,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2075,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 3,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 7,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 25,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 21,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 9,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 41,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2076,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 15,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 23,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 42,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 45,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 18,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2077,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 39,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 47,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 27,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 29,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 31,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 21,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2078,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 17,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 32,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 35,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 32,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 29,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 31,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2079,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 27,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 11,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 3,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 40,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 8,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 38,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2080,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 3,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 45,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 25,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 37,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 7,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 24,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2081,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 33,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 15,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 40,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 27,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 43,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 38,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2082,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 39,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 31,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 31,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 9,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 21,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 30,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2083,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 30,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 25,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 37,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 9,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 47,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 39,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2084,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 37,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 20,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 49,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 32,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 48,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 28,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2085,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 8,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 36,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 19,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 3,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 36,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 39,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2086,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 5,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 3,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 37,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 0,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 32,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 7,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2087,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 38,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 5,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 5,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 25,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 11,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 26,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2088,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 45,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 34,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 14,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 21,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 33,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 25,
+          "color": "#fcc169"
+        }
+      ]
+    },
+    {
+      "year": 2089,
+      "data": [
+        {
+          "name": "SBI",
+          "count": 18,
+          "color": "#f4efd3"
+        },
+        {
+          "name": "CANARA",
+          "count": 17,
+          "color": "#cccccc"
+        },
+        {
+          "name": "FEDERAL",
+          "count": 35,
+          "color": "#c2b0c9"
+        },
+        {
+          "name": "UNION",
+          "count": 7,
+          "color": "#9656a1"
+        },
+        {
+          "name": "DENA",
+          "count": 47,
+          "color": "#fa697c"
+        },
+        {
+          "name": "PNB",
+          "count": 46,
+          "color": "#fcc169"
+        }
+      ]
+    }
+  ]
