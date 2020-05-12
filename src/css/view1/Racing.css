@@ -13,4 +13,12 @@ button
     margin: 0 auto 5px;
     border-radius: 10%;
     padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+#res
+{
+  left: 15%;
+  position: relative;
 }

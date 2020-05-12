@@ -1,73 +1,51 @@
 import React,{ useState, useEffect } from 'react'; 
-import '../../css/view1/Racing.css';
 import RacingBarChart from "./RacingBarChart";
 import useInterval from "./useInterval";
 
-const getRandomIndex = array => {
-    return Math.floor(array.length * Math.random());
-  };
-  
-  function Racing() 
-  {
-    const [iteration, setIteration] = useState(0);
-    const [start, setStart] = useState(false);
-    const [data, setData] = useState([])
+import '../../css/view1/Racing.css';
+import racingData from './SampleData/BranchData.json';
 
-    useEffect(()=>
+function Racing()  
+{
+  const [year, setYear] = useState();
+  const [start, setStart] = useState();
+  const [data, setData] = useState([]);
+  const [index, setIndex] = useState();
+  const [maxIndex, setMaxIndex] = useState();
+
+  useEffect(()=>
+  {
+      setIndex(0);
+      setData(racingData[0].data);
+      setStart(false);
+      setYear(racingData[0].year);    
+      setMaxIndex(racingData.length);    
+  },[])
+
+  useInterval(() => 
+  {
+    if (start && index<maxIndex) 
     {
-        setData(
-        [{
-          name: "alpha",
-          value: 10,
-          color: "#f4efd3"
-        },
-        {
-          name: "beta",
-          value: 15,
-          color: "#cccccc"
-        },
-        {
-          name: "charlie",
-          value: 20,
-          color: "#c2b0c9"
-        },
-        {
-          name: "delta",
-          value: 25,
-          color: "#9656a1"
-        },
-        {
-          name: "echo",
-          value: 30,
-          color: "#fa697c"
-        },
-        {
-          name: "foxtrot",
-          value: 35,
-          color: "#fcc169"
-        }])
-    },[])
-  
-    useInterval(() => {
-      if (start) {
-        const randomIndex = getRandomIndex(data);
-        setData(
-          data.map((entry, index) => index === randomIndex ? { ...entry, value: entry.value + 10 } : entry )
-        );
-        setIteration(iteration + 1);
-      }
-    }, 500);
-  
-    return (
-      <React.Fragment>
-        <RacingBarChart data={data} />
-        <button onClick={() => setStart(!start)}>
-          {start ? "pause" : "start"}
-        </button>
-        <span style = {{float:"right"}}>Iteration: {iteration}</span>
-      </React.Fragment>
-    );
-  }
-  
-  export default Racing;
+      setIndex(index+1);
+      setData(racingData[index].data);
+      setYear(racingData[index].year);
+    }
+  }, 700);    
+
+  return (
+    <React.Fragment>
+      <RacingBarChart data={data} />
+      <button onClick={() => setStart(!start)}>
+        {start ? "PAUSE" : "START"}
+      </button>
+      <button id = "res" onClick={()=> {
+        setData(racingData[0].data); setStart(false); setYear(racingData[0].year);setIndex(0);}}>
+          RESET
+      </button>
+      <span style = {{float:"right", padding:"10px", backgroundColor:"lightgray", color:"white", borderRadius:"10%"}}>Year: {year}</span>
+    </React.Fragment>
+  );
+}
+
+export default Racing;
   

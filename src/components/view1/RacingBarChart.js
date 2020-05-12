@@ -13,15 +13,15 @@ function RacingBarChart({ data }) {
     if (!dimensions) return;
 
     // sorting the data
-    data.sort((a, b) => b.value - a.value);
+    data.sort((a, b) => b.count - a.count);
 
     const yScale = scaleBand()
       .paddingInner(0.1)
-      .domain(data.map((value, index) => index)) // [0,1,2,3,4,5]
+      .domain(data.map((count, index) => index)) // [0,1,2,3,4,5]
       .range([0, dimensions.height]); // [0, 200]
 
     const xScale = scaleLinear()
-      .domain([0, max(data, entry => entry.value)]) // [0, 65 (example)]
+      .domain([0, max(data, entry => entry.count)]) // [0, 65 (example)]
       .range([0, dimensions.width]); // [0, 400 (example)]
 
     // draw the bars
@@ -36,7 +36,7 @@ function RacingBarChart({ data }) {
       .attr("x", 0)
       .attr("height", yScale.bandwidth())
       .transition()
-      .attr("width", entry => xScale(entry.value))
+      .attr("width", entry => xScale(entry.count))
       .attr("y", (entry, index) => yScale(index));
 
     // draw the labels
@@ -51,7 +51,7 @@ function RacingBarChart({ data }) {
             (entry, index) => yScale(index) + yScale.bandwidth() / 2 + 5
           )
       )
-      .text(entry => `🐎 ... ${entry.name} (${entry.value} meters)`)
+      .text(entry => `${entry.name} (${entry.count} branches)`)
       .attr("class", "label")
       .attr("x", 10)
       .transition()

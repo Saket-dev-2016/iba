@@ -62,10 +62,11 @@ class View1 extends React.Component
                 </Col>
                 <Col lg={9}>
                     <Row>
-                        <Col lg={6} md={12}> 
+                        <Col lg={6} md={12} style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px"}}> 
                             <Geo loc={this.state.locationName} /> 
                         </Col>
-                        <Col lg={6} md={12}> 
+                        <Col lg = {1}></Col>
+                        <Col lg={5} md={12} style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px"}}> 
                           <Racing/>
                         </Col>
                         <Col lg={6} md={12}>
