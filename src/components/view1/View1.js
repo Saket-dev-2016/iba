@@ -66,7 +66,7 @@ class View1 extends React.Component
                             <Geo loc={this.state.locationName} /> 
                         </Col>
                         <Col lg={6} md={12}> 
-                            <Racing/>
+                          <Racing/>
                         </Col>
                         <Col lg={6} md={12}>
                            <Line/>
