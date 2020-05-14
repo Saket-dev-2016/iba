@@ -1,0 +1,20 @@
+#heading
+{
+    text-align: center;
+
+}
+
+.btn
+{
+    background-color: gray;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#appcontent
+{
+    text-align: center;
+}
