@@ -35,15 +35,15 @@ function Racing()
   return (
     <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px",height:"20em"}}>
       <RacingBarChart data={data} />
-      <div style={{position:"relative",top:"13%"}}>
-        <button onClick={() => setStart(!start)}>
+      <div style={{position:"relative",bottom:"5%",textAlign:"left"}}>
+        <button style = {{left:"5%",position:"absolute"}} onClick={() => setStart(!start)}>
           {start ? "PAUSE" : "START"}
         </button>
-        <button id = "res" onClick={()=> {
+        <button style = {{left:"40%",position:"absolute"}} onClick={()=> {
           setData(racingData[0].data); setStart(false); setYear(racingData[0].year);setIndex(0);}}>
             RESET
         </button>
-        <span style = {{float:"right", padding:"10px", backgroundColor:"lightgray", color:"white", borderRadius:"10%"}}>Year: {year}</span>
+        <span style = {{left:"75%",position:"absolute", padding:"10px", backgroundColor:"lightgray", color:"white", borderRadius:"10%"}}>Year: {year}</span>
       </div>
     </div>
   );

@@ -1,7 +1,8 @@
-.filter{
-    height: 42rem;
+.filter
+{
+    height: 45rem;
     border: solid blsck 2px;
-    background-color: cornflowerblue;
+    background-color: gray;
     border-radius: 10px;
     padding: 2px;
 }

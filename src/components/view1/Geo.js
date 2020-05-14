@@ -37,7 +37,10 @@ class Geo extends Component{
                 {p}         
             </HMap>
             </HPlatform>
-            <center style={{color:"white",margin:"10px"}}>{"Count: " + len}</center>
+            <div style={{marginTop:"10px",color:"white",textAlign:"left"}}>
+                <span style={{left:"10%",position:"relative"}}>Location : {this.props.loc.toUpperCase()}</span>
+                <span style={{left:"45%",position:"absolute"}}>Count : {len}</span>
+            </div>
   </div>
 );
 }

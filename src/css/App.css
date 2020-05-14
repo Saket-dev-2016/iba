@@ -1,7 +1,10 @@
 #heading
 {
     text-align: center;
-
+    background-color: gray;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
 }
 
 .btn

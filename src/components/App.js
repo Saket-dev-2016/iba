@@ -13,7 +13,7 @@ class App extends React.Component
     render() 
     {
         return (<Router>
-                    <div style={{marginBottom:"2%",backgroundColor:"lightgray"}} >
+                    <div>
                         <h1 id="heading">Indian Banking Analytics</h1>
                         <div id="appcontent">
                             <Link to="/view1" className="btn">View1</Link> 

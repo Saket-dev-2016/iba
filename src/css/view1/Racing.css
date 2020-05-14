@@ -1,9 +1,10 @@
-svg {
+svg 
+{
+  margin-top: 10px;
   overflow: visible;
   display: block;
-  /* background: #eee; */
   width: 100%;
-  height: 200px;
+  height: 250px;
 }
   
 button 
@@ -15,10 +16,4 @@ button
     padding: 10px;
     background-color: blue;
     color: white;
-}
-
-#res
-{
-  left: 15%;
-  position: relative;
 }

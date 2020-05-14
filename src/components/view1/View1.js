@@ -67,30 +67,36 @@ class View1 extends React.Component
         }
             
         return <React.Fragment>
-        <Row style={{width:"97%"}}>
+        <Row style={{width:"97%",marginTop:"10px"}}>
             <Col lg={3} md={12}>
                 {/* Moved Filter.js code here due to state exchange */}
                 <div className="filter">
                     <Form>
                         <Form.Group>
-                            <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Location</FormLabel>
+                            <FormLabel component="legend" style={{color:"white",fontWeight:"bold", marginTop:"10%",right:"5%",position:"relative"}}>Location</FormLabel>
+                            <br/>
                             <Select
                                 style={{width:"80%"}}
                                 value={this.state.locationName}
                                 onChange={(event) => this.set_loc(event)}
                             >
                                 {result.map(items=> (
-                                    <MenuItem key = {items} value = {items}>{items.toUpperCase()}</MenuItem>
+                                    <MenuItem  style ={{color:"white",backgroundColor:"gray"}} key = {items} value = {items}>
+                                        <span style={{color:"white"}}>{items.toUpperCase()}</span>
+                                    </MenuItem>
                                 ))}
                             </Select>
-                            <FormLabel component="legend" style={{color:"black",fontWeight:"bold", marginTop:"10%"}}>Year</FormLabel>
+                            <FormLabel component="legend" style={{color:"white",fontWeight:"bold", marginTop:"10%",right:"5%",position:"relative"}}>Year</FormLabel>
+                            <br/>
                             <Select
                                 style={{width:"80%"}}
                                 value={this.state.year}
                                 onChange={(event) => this.set_year(event)}
                             >
                                 {years.map(items=> (
-                                    <MenuItem key = {items} value = {items}>{items}</MenuItem>
+                                    <MenuItem style ={{color:"white",backgroundColor:"gray"}} key = {items} value = {items}>
+                                        <span style={{color:"white"}}>{items}</span>
+                                    </MenuItem>
                                 ))}
                             </Select>
                         </Form.Group>
