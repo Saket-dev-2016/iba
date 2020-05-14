@@ -17,14 +17,14 @@ function RacingBarChart({ data }) {
 
     const yScale = scaleBand()
       .paddingInner(0.1)
-      .domain(data.map((count, index) => index)) // [0,1,2,3,4,5]
-      .range([0, dimensions.height]); // [0, 200]
+      .domain(data.map((count, index) => index))
+      .range([0, dimensions.height]); 
 
     const xScale = scaleLinear()
-      .domain([0, max(data, entry => entry.count)]) // [0, 65 (example)]
-      .range([0, dimensions.width]); // [0, 400 (example)]
+      .domain([0, max(data, entry => entry.count)]) 
+      .range([0, dimensions.width]);
 
-    // draw the bars
+    
     svg
       .selectAll(".bar")
       .data(data, (entry, index) => entry.name)

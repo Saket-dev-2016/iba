@@ -33,17 +33,19 @@ function Racing()
   }, 700);    
 
   return (
-    <React.Fragment>
+    <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px",height:"20em"}}>
       <RacingBarChart data={data} />
-      <button onClick={() => setStart(!start)}>
-        {start ? "PAUSE" : "START"}
-      </button>
-      <button id = "res" onClick={()=> {
-        setData(racingData[0].data); setStart(false); setYear(racingData[0].year);setIndex(0);}}>
-          RESET
-      </button>
-      <span style = {{float:"right", padding:"10px", backgroundColor:"lightgray", color:"white", borderRadius:"10%"}}>Year: {year}</span>
-    </React.Fragment>
+      <div style={{position:"relative",top:"13%"}}>
+        <button onClick={() => setStart(!start)}>
+          {start ? "PAUSE" : "START"}
+        </button>
+        <button id = "res" onClick={()=> {
+          setData(racingData[0].data); setStart(false); setYear(racingData[0].year);setIndex(0);}}>
+            RESET
+        </button>
+        <span style = {{float:"right", padding:"10px", backgroundColor:"lightgray", color:"white", borderRadius:"10%"}}>Year: {year}</span>
+      </div>
+    </div>
   );
 }
 
