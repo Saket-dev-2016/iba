@@ -33,7 +33,7 @@ function Racing()
   }, 700);    
 
   return (
-    <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px",height:"20em"}}>
+    <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px", paddingBottom:"2.6rem"}}>
       <RacingBarChart data={data} />
       <div style={{position:"relative",bottom:"5%",textAlign:"left"}}>
         <button style = {{left:"5%",position:"absolute"}} onClick={() => setStart(!start)}>

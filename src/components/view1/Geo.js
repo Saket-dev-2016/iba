@@ -17,7 +17,7 @@ class Geo extends Component{
         p = data.filter(item => item.locationName === this.props.loc).map(item => <HMapMarker coords={{lat: item.latitute, lng: item.longitute}} icon={icon} />)
         let len = p.length
     return(
-        <div  style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px",height:"20em"}}>
+        <div  style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px"}}>
             <HPlatform
                 app_id="146I1SvldQTQqQ8zDG1x"
                 app_code="WQgbU-3h_tVc6bT7aBr0nAOYQoDc8smHvuKnpP4R9h8"
@@ -29,7 +29,7 @@ class Geo extends Component{
             >
                 <HMap
                 style={{
-                height: "300px"
+                height: window.innerHeight*0.415
                 }}
                 mapOptions={{ center: { lat:17.123184	, lng: 79.208824  } }}
                 useEvents // Required for events

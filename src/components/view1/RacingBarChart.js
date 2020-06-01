@@ -59,7 +59,7 @@ function RacingBarChart({ data }) {
   }, [data, dimensions]);
 
   return (
-    <div ref={wrapperRef} style={{ marginBottom: "2rem" }}>
+    <div ref={wrapperRef} style={{ marginBottom: "0.5rem", height:window.innerHeight*0.4 }}>
       <svg ref={svgRef}></svg>
     </div>
   );

@@ -1,5 +1,7 @@
 import React from 'react'; 
 import {Line} from 'react-chartjs-2';
+import branchData from './SampleData/BranchData.json';
+import { sum } from 'd3';
 
 class LinePlot extends React.Component 
 {
@@ -8,25 +10,22 @@ class LinePlot extends React.Component
     {
 
         return(
-            <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px",height:"20em"}}>
+            <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px"}}>
                 <Line 
                     data = 
                     {{
-                        labels: this.props.yearData.data.map(item => item.name),
+                        //For gap of 10years in graph
+                        // labels: branchData.filter(data => data.year%10===0).map(item => item.year),
+                        labels: branchData.map(item => item.year),
                         datasets:
                         [
                             {
-                                data:this.props.yearData.data.map(item => item.count),
-                                backgroundColor:
-                                [
-                                    'rgba(255, 99, 132, 0.6)',
-                                    'rgba(54, 162, 235, 0.6)',
-                                    'rgba(255, 206, 86, 0.6)',
-                                    'rgba(75, 192, 192, 0.6)',
-                                    'rgba(153, 102, 255, 0.6)',
-                                    'rgba(255, 159, 64, 0.6)',
-                                    'rgba(255, 99, 132, 0.6)'
-                                ]
+                                //For gap of 10years in graph
+                                // data: branchData.filter(data => data.year%10===0).map(item => sum(item.data.map(element => element.count))),
+                                data: branchData.map(item => sum(item.data.map(element => element.count))),
+                                backgroundColor:'transparent',
+                                borderColor:'rgba(54, 162, 235, 0.6)',
+                                // backgroundColor:'rgba(54, 162, 235, 0.6)'
                             }
                         ]
                         
@@ -38,7 +37,7 @@ class LinePlot extends React.Component
                         title:
                         {
                           display:true,
-                          text:'Count of Banks for : '+this.props.yearData.year,
+                          text:'No. of Banks over years',
                           fontSize:25,
                           fontColor:"white"
                         },

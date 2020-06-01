@@ -8,7 +8,7 @@ class BarPlot extends React.Component
     {
 
         return(
-            <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px",height:"20em"}}>
+            <div style={{backgroundColor:"gray",borderRadius:"10%",padding:"20px",marginBottom:"10px"}}>
                 <Bar 
                     data = 
                     {{

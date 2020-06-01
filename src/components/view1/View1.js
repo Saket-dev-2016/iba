@@ -19,10 +19,10 @@ class View1 extends React.Component
         super(props);
         this.state = 
         { 
-            year:"",
-            locationName: "",
+            year:2020,
+            locationName: "Hyderabad",
             points: [],
-            yearData : branchData[0]
+            yearData : branchData[30]
         }
     }
 
