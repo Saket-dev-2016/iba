@@ -1,23 +1,22 @@
-#heading
-{
+.App {
+    /* display: inline-flexbox; */
+    min-width: 770px;
+  }
+  .message{
     text-align: center;
-    background-color: gray;
-    color: white;
-    padding: 15px;
-    border-radius: 15px;
-}
-
-.btn
-{
-    background-color: gray;
-    color: white;
-    margin: 10px;
-    padding: 10px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-#appcontent
-{
-    text-align: center;
-}
+    font-size: x-large;
+  }
+  .min_message{
+    display: none;
+  }
+  
+  @media screen  and (max-width : 770px){
+    .message{
+      display: none;
+    }
+    .min_message{
+      display: block;
+      text-align: center;
+      font-size: x-large;
+    }
+  }

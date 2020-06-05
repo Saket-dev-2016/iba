@@ -18,6 +18,7 @@
     "react-here-map": "^4.0.0-0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
+    "reactstrap": "^8.4.1",
     "resize-observer-polyfill": "^1.5.1"
   },
   "scripts": {
